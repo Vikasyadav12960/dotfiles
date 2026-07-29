@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editors
+.vscode/
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Temporary files
+tmp/
+temp/
+
+# Archives
+*.zip
+*.tar
+*.gz
+
