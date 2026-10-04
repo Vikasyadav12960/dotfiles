@@ -1,6 +1,5 @@
 # dotfiles
-
-> A minimal, modular, and reproducible Linux dotfiles setup.
+# A minimal, modular, and reproducible Linux dotfiles setup.
 
 ## ✨ Features
 
